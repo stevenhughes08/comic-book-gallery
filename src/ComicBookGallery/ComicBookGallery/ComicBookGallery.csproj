@@ -105,7 +105,7 @@
     <Content Include="Views\Shared\_Layout.cshtml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="bin\App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\ComicBooksController.cs" />
     <Compile Include="Data\ComicBookRepository.cs" />
     <Compile Include="Global.asax.cs">
